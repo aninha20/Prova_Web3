@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body{
+    background-color: #FAF0E6;
+    font-family: 'Poppins', sans-serif;
+    text-align: start;
+    margin-left: 30px;
+    margin-top: 20px;
+    line-height: 1.5;
+}
+h1{
+    color: #5C5470;
+}
+h3{
+    color: #352F44;
+}
+input{
+    border-radius: 12px ;
+    border-color: #B9B4C7;
+}
+input:focus{
+    border-radius: 12px;
+    padding: 5px;
+    border-color: #352F44;
+    outline: 0;
+    box-shadow: 0 0 0 0;
+
+}
+#idSubmit #idOrganizar{
+    padding: 3px;
+    border-radius: 9px;
+    margin-left: 15px;
+}
+pre{
+    color: #352F44;
+}
